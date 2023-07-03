@@ -1,0 +1,12 @@
+load_file doc1.txt
+print_document
+#highlight_text "216"
+#highlight_text "we"
+#replace_text "classes" "class"
+#replace_text "cmsc" "bmgt"
+#replace_text "Several" "Many"
+#replace_text "offered" "not offered"
+#replace_text "cmsc411" "bmgt100"
+replace_text "courses every" "hello brian"
+print_document
+quit 
